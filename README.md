@@ -1,1 +1,0 @@
-# Dr-Phil-MM-Presedential-Campaign
