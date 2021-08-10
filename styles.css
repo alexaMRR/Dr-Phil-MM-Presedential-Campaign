@@ -1,7 +1,7 @@
 body {
     margin: 5% 0% 30% 0%;
-    background-image: url("https://wallpaperplay.com/walls/full/1/a/1/289381.jpg");
-    background-size: cover;
+    background-image: linear-gradient(to top left, #5daf75,#95d17e);
+    background-repeat: repeat-x;
 }
 
 .bodyparagraph {
